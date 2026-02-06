@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vivek Sharma</h1>
-<h3 align="center">A wannabe Developer</h3>
+<h3 align="center">A Wannabe Developer</h3>
 
 - ⚒️ I’m currently working on [PassMan](https://github.com/Codevek/PassMan)
 
-- 🌱 I’m currently learning **Fast API, Open CV, C++**
-
 - 🔭 I’m also building [TeleScope](https://github.com/Codevek/TeleScope)
 
-- 💬 Ask me about **Python, JS, PyQt**
+- 🌱 I’m currently learning **Fast API, Open CV, C++**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
