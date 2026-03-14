@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vivek Sharma</h1>
 <h3 align="center">A Wannabe Developer</h3>
 
-- ⚒️ I’m currently working on [PassMan](https://github.com/Codevek/PassMan)
+- ⚒️ I’m currently working on [StickIt](https://github.com/Codevek/Stickit)
 
-- 🔭 I’m also building [TeleScope](https://github.com/Codevek/TeleScope)
+- 🔭 I’m also building [Ironlock](https://github.com/Codevek/)
 
 - 🌱 I’m currently learning **Fast API, Open CV, C++**
 
