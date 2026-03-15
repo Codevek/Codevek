@@ -3,7 +3,7 @@
 
 - ⚒️ I’m currently working on [StickIt](https://github.com/Codevek/Stickit)
 
-- 🔭 I’m also building [Ironlock](https://github.com/Codevek/)
+- 🔭 I’m also building [IronLock](https://github.com/Codevek/IronLock)
 
 - 🌱 I’m currently learning **Fast API, Open CV, C++**
 
