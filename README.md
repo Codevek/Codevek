@@ -5,7 +5,7 @@
 
 - 🔭 I’m also building [IronLock](https://github.com/Codevek/IronLock)
 
-- 🌱 I’m currently learning **Fast API, Open CV, C++**
+- 🌱 I’m currently learning **Fast API, Open CV, C++, TailwindCSS**
 
 
 <h3 align="left">Connect with me:</h3>
